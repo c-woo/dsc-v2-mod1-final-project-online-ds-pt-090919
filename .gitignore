@@ -1,6 +1,9 @@
 # Images
 images/
 
+# Powerpoint file
+powerpoint.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
