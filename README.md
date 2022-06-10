@@ -1,8 +1,4 @@
-
-# Module 1 Final Project
-
-
-## Student.ipynb Jupyter Notebook
+# Predicting Home Values in Kings County
 
 In here you'll find all the code that was used to clean and analyze the data for the kc_house_data.csv. The code ultimately leads to a multiple linear regression model which can be found near the bottom of the notebook. Also the bottom of the notebook contains data analysis based on the linear regression model and the data.
 
